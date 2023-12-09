@@ -1,0 +1,4 @@
+unit,trip_id,toll_loc_id_start,toll_loc_id_end,toll_loc_name_start,toll_loc_name_end,toll_system_type,entry_time,exit_time,tag_cost,cash_cost,license_plate_cost
+2000,2000_0,127000402,127000000,17 - Newburgh I-84,15 - Woodbury Toll,ticketSystem1,2023-12-11T11:23:46Z,2023-12-11T11:48:18Z,1.33,,1.72
+2000,2000_0,126005400,126002800,18W - Geo Washington Br/US 46/I-80,12 - Carteret/Rahway,ticketSystem1,2023-12-11T12:54:34Z,2023-12-11T13:23:51Z,8.81,8.85,
+2000,2000_0,126002800,126003200,12 - Carteret/Rahway,13A - Newark Aprt/Elizabeth Seaport,ticketSystem1,2023-12-11T13:43:19Z,2023-12-11T13:53:09Z,1.76,1.8,
